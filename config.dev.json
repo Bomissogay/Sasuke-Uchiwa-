@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100094571877147"
+    "100085016705481"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐆𝐡𝐨𝐬𝐭 𝐁𝐥𝐚𝐜𝐤_01",
-  "prefix": "-",
+  "nickNameBot": "𝑺𝑨𝑺𝑼𝑲𝑬 𝑼𝑪𝑯𝑰𝑾𝑨",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
